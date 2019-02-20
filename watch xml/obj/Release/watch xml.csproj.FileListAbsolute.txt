@@ -1,0 +1,26 @@
+C:\Users\putho\source\repos\watch xml\watch xml\bin\Release\watch xml.exe.config
+C:\Users\putho\source\repos\watch xml\watch xml\bin\Release\watch xml.exe
+C:\Users\putho\source\repos\watch xml\watch xml\bin\Release\watch xml.pdb
+C:\Users\putho\source\repos\watch xml\watch xml\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\putho\source\repos\watch xml\watch xml\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\putho\source\repos\watch xml\watch xml\bin\Release\Newtonsoft.Json.dll
+C:\Users\putho\source\repos\watch xml\watch xml\bin\Release\Microsoft.WindowsAPICodePack.xml
+C:\Users\putho\source\repos\watch xml\watch xml\bin\Release\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\putho\source\repos\watch xml\watch xml\bin\Release\Newtonsoft.Json.pdb
+C:\Users\putho\source\repos\watch xml\watch xml\bin\Release\Newtonsoft.Json.xml
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Release\MainWindow.g.cs
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Release\App.g.cs
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Release\watch xml_MarkupCompile.cache
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Release\watch xml_MarkupCompile.lref
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Release\App.baml
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Release\MainWindow.baml
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Release\style_resurse\comboBox.baml
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Release\style_resurse\Dictionary1.baml
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Release\watch xml.g.resources
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Release\watch_xml.Properties.Resources.resources
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Release\watch xml.csproj.GenerateResource.cache
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Release\watch xml.csproj.CoreCompileInputs.cache
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Release\watch xml.csproj.CopyComplete
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Release\watch xml.exe
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Release\watch xml.pdb
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Release\watch xml.csprojAssemblyReference.cache

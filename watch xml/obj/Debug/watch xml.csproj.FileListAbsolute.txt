@@ -1,0 +1,26 @@
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Debug\watch xml.csprojAssemblyReference.cache
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Debug\MainWindow.g.cs
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Debug\App.g.cs
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Debug\watch xml_MarkupCompile.cache
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Debug\watch xml_MarkupCompile.lref
+C:\Users\putho\source\repos\watch xml\watch xml\bin\Debug\watch xml.exe.config
+C:\Users\putho\source\repos\watch xml\watch xml\bin\Debug\watch xml.exe
+C:\Users\putho\source\repos\watch xml\watch xml\bin\Debug\watch xml.pdb
+C:\Users\putho\source\repos\watch xml\watch xml\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\putho\source\repos\watch xml\watch xml\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\putho\source\repos\watch xml\watch xml\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\putho\source\repos\watch xml\watch xml\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Debug\MainWindow.baml
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Debug\watch xml.g.resources
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Debug\watch_xml.Properties.Resources.resources
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Debug\watch xml.csproj.GenerateResource.cache
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Debug\watch xml.csproj.CoreCompileInputs.cache
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Debug\watch xml.csproj.CopyComplete
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Debug\watch xml.exe
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Debug\watch xml.pdb
+C:\Users\putho\source\repos\watch xml\watch xml\bin\Debug\Newtonsoft.Json.dll
+C:\Users\putho\source\repos\watch xml\watch xml\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\putho\source\repos\watch xml\watch xml\bin\Debug\Newtonsoft.Json.xml
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Debug\App.baml
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Debug\style_resurse\comboBox.baml
+C:\Users\putho\source\repos\watch xml\watch xml\obj\Debug\style_resurse\Dictionary1.baml
